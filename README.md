@@ -1,1 +1,9 @@
 # WeekendFitnessClub
+The Weekend Fitness Club (WFC) needs software for managing bookings made by the customers. The club offers different group fitness lessons on both Saturday and Sunday. The types of fitness lessons could be SPIN, YOGA, BODYSCULPT, ZUMBA, etc. Each lesson can accommodate 5 customers at most. For either day (Saturday or Sunday), there are 2 fitness lessons per day. The lesson prices are different for different types of fitness activities. However, the same type of lessons will have the same price no matter what time they are run.
+
+A customer who wants to book a lesson has two choices to view the timetable.  The first choice is to view by day. For example, a customer has chosen  Saturday, then all the lessons on all the Saturdays  will be displayed. The second choice is to view by the fitness type. For example, a customer  has chosen YOGA,  then all the YOGA lessons on all the days in the timetable will be displayed. The customer will then book a lesson according to the timetable  s/he has viewed. Customers  are allowed  to change a booking,  provided  there are still spaces available for the newly selected lesson. A customer can book as many lessons as they want. Customers are also allowed to cancel a booking before the booked lesson was attended.
+
+After each group fitness lesson, customers can write a review of the lesson they have attended and provide a numerical rating ranging from 1 to 5 (1: Very dissatisfied, 2: Dissatisfied,  3: Ok, 4:  Satisfied, 5: Very Satisfied). The review and rating information will be recorded in the system. After four weeks (four weekends), the software system must print:
+•	a report containing the number of customers per lesson on each day, along with the average rating of each lesson;
+•	a report containing  the type of fitness lessons  which has generated  the highest income, counting all the same type of lessons together.
+
